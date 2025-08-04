@@ -13,7 +13,7 @@ public class Message implements Serializable {
     private UUID id;
     private Long createdAt;
     private Long updatedAt;
-    //
+
     private String content;
     //
     private UUID channelId;

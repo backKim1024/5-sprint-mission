@@ -13,7 +13,7 @@ public class User implements Serializable {
     private UUID id;
     private Long createdAt;
     private Long updatedAt;
-    //
+
     private String username;
     private String email;
     private String password;
